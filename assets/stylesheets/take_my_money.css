@@ -1,0 +1,10 @@
+#take_my_money {
+  width: 100%;
+  height: 60vh;
+  background-image: url("../images/hills.jpg");
+  background-size: cover; }
+  #take_my_money img {
+    margin-top: 5em;
+    margin-left: 35em; }
+
+/*# sourceMappingURL=take_my_money.css.map */

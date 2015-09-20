@@ -1,0 +1,41 @@
+#land {
+  width: 100%;
+  background-color: #9b82c8;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 60px; }
+  #land a {
+    font-size: 1.1em;
+    padding: 1em 3em;
+    font-weight: bold;
+    display: inline-block;
+    margin: 1em 0; }
+    #land a, #land a:hover {
+      background-color: #50dbde;
+      color: #FFFFFF;
+      text-decoration: none; }
+  #land #asd {
+    display: block;
+    padding-top: 20px;
+    width: 100%; }
+
+#land-action {
+  text-align: center;
+  padding-top: 10vh; }
+  #land-action h2 {
+    margin-top: 1.5em;
+    color: #aeb7be; }
+  #land-action a {
+    font-size: 1.1em;
+    padding: 1em 2em;
+    font-weight: bold;
+    margin: 1em 0; }
+    #land-action a, #land-action a:hover {
+      background-color: #b4a0dd;
+      color: #FFFFFF;
+      text-decoration: none; }
+  #land-action p {
+    color: #aeb7be;
+    margin: 2em; }
+
+/*# sourceMappingURL=land.css.map */

@@ -1,0 +1,61 @@
+#land{
+  width: 100%;
+  //height: 100vh;
+  background-color: #9b82c8;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 60px;
+
+  a{
+    font-size: 1.1em;
+    padding: 1em 3em;
+    font-weight: bold;
+    display: inline-block;
+    margin: 1em 0;
+
+    &, &:hover{
+      background-color: #50dbde;
+      color: #FFFFFF;
+      text-decoration: none;
+    } 
+  }
+
+  #asd{
+    display: block;
+    //margin-bottom: 20px;
+    padding-top: 20px;
+    width: 100%;
+  }
+  
+
+}
+
+#land-action{
+  text-align: center;
+  padding-top: 10vh;
+
+  h2{
+    margin-top: 1.5em;
+    color: #aeb7be;
+  }
+
+  a{
+    font-size: 1.1em;
+    padding: 1em 2em;
+    font-weight: bold;
+    margin: 1em 0;
+
+    &, &:hover{
+      background-color: #b4a0dd;
+      color: #FFFFFF;
+      text-decoration: none;
+    } 
+  }
+
+
+  p{
+    color: #aeb7be;
+    margin: 2em;
+  }
+}
+

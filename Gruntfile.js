@@ -7,7 +7,8 @@ module.exports = function(grunt) {
 	        'assets/stylesheets/land.css': 'assets/stylesheets/src/land.scss',
 	        'assets/stylesheets/login.css': 'assets/stylesheets/src/login.scss',
 	        'assets/stylesheets/support.css': 'assets/stylesheets/src/support.scss',
-	        'assets/stylesheets/take_my_money.css': 'assets/stylesheets/src/take_my_money.scss'
+	        'assets/stylesheets/take_my_money.css': 'assets/stylesheets/src/take_my_money.scss',
+	        'assets/stylesheets/footer.css': 'assets/stylesheets/src/footer.scss'
 	      }
 	    }
 	  },
@@ -27,7 +28,8 @@ module.exports = function(grunt) {
 	       	'assets/stylesheets/land.css',
 	       	'assets/stylesheets/login.css',
 	       	'assets/stylesheets/support.css',
-	       	'assets/stylesheets/take_my_money.css'
+	       	'assets/stylesheets/take_my_money.css',
+	       	'assets/stylesheets/footer.css'
 	       ]
 	    }
 	  }

@@ -31,6 +31,7 @@
       text-transform: uppercase;
       font-weight: bold; }
   #subscription .box1 {
+    text-align: center;
     border: 1px solid #957ec6;
     padding-bottom: 2em; }
     #subscription .box1 h3 {
@@ -65,6 +66,7 @@
     #subscription .box1 .glyphicon {
       padding: 0.5em; }
   #subscription .box2 {
+    text-align: center;
     border: 1px solid #957ec6;
     padding-bottom: 2em; }
     #subscription .box2 h3 {

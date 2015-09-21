@@ -1,11 +1,58 @@
 #take_my_money{
-  width: 100%;
-  height: 60vh;
+  //width: 100%;
+  //height: 100vh;
   background-image: url('../images/hills.jpg');
   background-size: cover;
+  left: 0px;
+  top: 0px;
+  text-align: center;
+     /* display: inline-block;
+         position: relative;
+         border-radius: 2em;
+         bottom: -2em;
+         box-shadow: 0px 31px 38px #ccc; */
+     
+
   //background-color: rgba(135, 36, 205, 0.2);
-  img{
-    margin-top: 5em;
-    margin-left: 35em;
+  #asd{
+    //margin: 20px;
+    width: 100%;
+    //position: absolute;
+    top: 30px;
+    left: 70px;
+    //padding-top: 5em;
+    display: inline-block;
+    position: relative;
+    bottom: -2em;
+    border-radius: 2em;
+    box-shadow: 0px 31px 38px #ccc;
+  }
+}
+
+
+#take_my_money_action{
+  text-align: center;
+  //min-height: 30vh;
+  .box1{
+    width: 100%;
+    min-height: 20vh;
+    text-align: center;
+    background-color: #9b82c8;
+
+    a{
+      margin: 100px auto;
+      font-size: 1.1em;
+      font-weight: bold;
+      display: inline-block;
+      text-transform: uppercase;
+    //  margin: 3em 0;
+      padding: 1em 2em;
+      
+      &, &:hover{
+        background-color: #50dbde;
+        color: #FFFFFF;
+        text-decoration: none;
+      }
+    }
   }
 }

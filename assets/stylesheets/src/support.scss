@@ -34,6 +34,9 @@
   }
 }
 
+
+
+
 #subscription{
   text-align: center;
   margin: 2em;
@@ -48,7 +51,7 @@
   }
 
   .box1{
-    text-align: center;
+    text-align: center;  
     border: 1px solid #957ec6;
     padding-bottom: 2em;
     h3{
@@ -88,13 +91,17 @@
     }
 
     a{
-      padding: 0.5em 7em;
+      padding: 0.5em 0em;
       &, &:hover{
         border: 1px solid #957ec6;
         text-decoration: none;
         color: #957ec6;
         text-transform: uppercase;
         font-weight: bold;
+        white-space: nowrap;
+        text-align: center;
+        width: 90%;
+        display: inline-block;
       }
     }
     .glyphicon{
@@ -142,7 +149,7 @@
     }
 
     a{
-      padding: 0.5em 7em;
+      padding: 0.5em 0em;
       &, &:hover{
         border: 1px solid #957ec6;
         background-color: #957ec6;
@@ -151,6 +158,10 @@
         //color: #957ec6;
         text-transform: uppercase;
         font-weight: bold;
+        white-space: nowrap;
+        text-align: center;
+        width: 90%;
+        display: inline-block;
       }
     }
 

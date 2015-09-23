@@ -56,13 +56,17 @@
       #subscription .box1 .inside p {
         color: #a9a9a9; }
     #subscription .box1 a {
-      padding: 0.5em 7em; }
+      padding: 0.5em 0em; }
       #subscription .box1 a, #subscription .box1 a:hover {
         border: 1px solid #957ec6;
         text-decoration: none;
         color: #957ec6;
         text-transform: uppercase;
-        font-weight: bold; }
+        font-weight: bold;
+        white-space: nowrap;
+        text-align: center;
+        width: 90%;
+        display: inline-block; }
     #subscription .box1 .glyphicon {
       padding: 0.5em; }
   #subscription .box2 {
@@ -91,14 +95,18 @@
       #subscription .box2 .inside p {
         color: #a9a9a9; }
     #subscription .box2 a {
-      padding: 0.5em 7em; }
+      padding: 0.5em 0em; }
       #subscription .box2 a, #subscription .box2 a:hover {
         border: 1px solid #957ec6;
         background-color: #957ec6;
         color: #FFFFFF;
         text-decoration: none;
         text-transform: uppercase;
-        font-weight: bold; }
+        font-weight: bold;
+        white-space: nowrap;
+        text-align: center;
+        width: 90%;
+        display: inline-block; }
     #subscription .box2 .glyphicon {
       padding: 0.5em; }
 

@@ -14,10 +14,22 @@
       display: block;
     }
 
+    a{
+      font-size: 1.1em;
+      text-transform: uppercase;
+
+      &, &:hover{
+        //background-color: #50dbde;
+        color: #b8b9bb;
+        text-decoration: none;
+      }
+    }
+
     .glyphicon{
       font-size: 20px;
     }
   }
+
 
   .box2{
     width: 100%;

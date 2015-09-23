@@ -9,6 +9,12 @@
     padding: 1em 1em; }
     #footer .box1 .lol {
       display: block; }
+    #footer .box1 a {
+      font-size: 1.1em;
+      text-transform: uppercase; }
+      #footer .box1 a, #footer .box1 a:hover {
+        color: #b8b9bb;
+        text-decoration: none; }
     #footer .box1 .glyphicon {
       font-size: 20px; }
   #footer .box2 {
